@@ -15,7 +15,7 @@ project "Box2D"
 
 	includedirs
 	{
-    "src"
+    		"src",
 		"include"
 	}
 
